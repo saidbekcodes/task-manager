@@ -7,7 +7,3 @@ Task Manager is a simple JavaScript-based application that allows users to add, 
 - ✅ Mark tasks as completed/uncompleted
 - ❌ Remove tasks
 - 📊 Display task summary
-
-## 📦 Download the Project
-git clone https://github.com/saidbekcodes/task-manager.git
-cd task-manager

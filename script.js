@@ -84,7 +84,7 @@ function showMainMenu() {
       `
       🔹Welcome to ${appName}!🔹
             Choose an option (1-6):
-            ---------------------------
+            --------------------------
             1. Add task
             2. View tasks
             3. Toggle task
